@@ -1,3 +1,6 @@
+Оригинальный репозиторий.  
+https://github.com/juanfont/headscale
+
 # headscale
 
 ![ci](https://github.com/juanfont/headscale/actions/workflows/test.yml/badge.svg)
